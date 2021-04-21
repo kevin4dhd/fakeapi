@@ -5,6 +5,7 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
+    "name": "string",
     "comments": "Comment[]"
   },
   "Comment": {
